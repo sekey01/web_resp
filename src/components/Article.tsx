@@ -14,7 +14,7 @@ const Article = () => {
           <h2 className="font-bold text-left">LOREM IPSUM</h2>
           <p className="text-left max-w-prose">
             lorem ipsum incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-            nostrud
+            nostrud hj
           </p>
           <div className="h-60 w-full bg-blue-200 rounded-md flex items-center justify-center">
             Image Here
