@@ -9,7 +9,7 @@ const Gallery = () => {
   return (
     <div className="w-full p-6 flex flex-col items-center bg-gray-50 min-h-screen">
       {/* Heading */}
-      <h1 className="text-black font-extrabold text-4xl md:text-5xl leading-tight text-center mb-10 mt-6">
+      <h1 className="text-black font-extrabold text-4xl md:text-5xl leading-tight text-center mb-5 mt-6">
         GALLERY
       </h1>
 

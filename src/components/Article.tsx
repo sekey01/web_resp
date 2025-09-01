@@ -4,7 +4,7 @@ const Article = () => {
   const [text, setText] = useState("");
 
   return (
-    <section className="w-full bg-white px-6 py-10">
+    <section className="w-full bg-white px-6 ">
       <h1 className="font-bold text-2xl text-center">Article</h1>
 
       {/* Two columns */}
