@@ -1,6 +1,6 @@
 const Aesther = () => {
   return (
-    <div className="flex flex-col md:flex-row items-start md:items-center justify-between min-h-screen px-6 md:px-12">
+    <div className="flex flex-col md:flex-row items-start md:items-center justify-between  px-6 md:px-12">
       {/* Left Column: Text + Button */}
       <div className="w-full md:w-1/2 flex flex-col gap-6">
         <h1 className="text-white font-extrabold text-4xl md:text-5xl leading-tight text-left">

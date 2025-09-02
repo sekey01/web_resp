@@ -11,7 +11,7 @@ const Envoy = () => {
           LOREM IPSUM LOREM IPSUM
         </h1>
 
-        <div className="flex flex-col md:flex-row gap-4 md:gap-6 items-center justify-center max-w-xl mx-auto">
+        <div className="w-auto flex flex-col md:flex-row gap-4 md:gap-6 items-center justify-center max-w-xl mx-auto">
           <input
             type="text"
             placeholder="Enter text"
